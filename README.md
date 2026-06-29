@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="Hanzo-EasyUse" width="880"></p>
+
 # Hanzo-EasyUse
 
 **Workflow utilities for the Hanzo ecosystem**
