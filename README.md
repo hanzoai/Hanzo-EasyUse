@@ -1,5 +1,7 @@
 # Hanzo-EasyUse
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/Hanzo-EasyUse&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/Hanzo-EasyUse&ref=main&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/Hanzo-EasyUse&ref=main&action=deploy)
+
 ComfyUI nodes that collapse common multi-node patterns into single nodes, so ordinary workflows stay small.
 
 This is a Hanzo-maintained fork of [yolain/ComfyUI-Easy-Use](https://github.com/yolain/ComfyUI-Easy-Use), pinned so the ComfyUI node packs we
